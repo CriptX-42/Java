@@ -1,9 +1,9 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+Nome do programador : Ricardo Sousa Vaz de Carvalho
+data da elaboracao  : 06/07/2017
+Objetivo: Receba os valores de 2 catetos de um triângulo retângulo. Calcule e mostre a hipotenusa.
  */
-package Exerc19;
+package Exerc17;
 
 import java.util.Scanner;
 

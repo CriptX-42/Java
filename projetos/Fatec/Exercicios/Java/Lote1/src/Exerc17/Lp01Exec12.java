@@ -1,9 +1,9 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+Nome do programador : Ricardo Sousa Vaz de Carvalho
+data da elaboracao  : 06/07/2017
+Objetivo: Receba o ano de nascimento e o ano atual. Calcule e mostre a sua idade e quantos anos terá daqui a 17 anos.  
  */
-package Exerc19;
+package Exerc17;
 
 import java.util.Scanner;
 
@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author Ricardo Sousa
  */
-public class Lp01Exec11 {
+public class Lp01Exec12 {
     public static void main(String[]args){
         int anoNasc = 0, anoAtual = 0, idade = 0,futuraId = 0;
         Scanner num = new Scanner(System.in);

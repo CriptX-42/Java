@@ -1,4 +1,9 @@
-package Exerc19;
+/*
+Nome do programador : Ricardo Sousa Vaz de Carvalho
+data da elaboracao  : 03/07/2017
+Objetivo: Receba a temperatura em graus Celsius. Calcule e mostre a sua temperatura convertida em fahrenheit F = (9*C+160) /5.  
+ */
+package Exerc17;
 
 import java.util.Scanner;
 

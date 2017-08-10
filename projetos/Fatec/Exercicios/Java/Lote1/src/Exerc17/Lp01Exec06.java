@@ -1,5 +1,9 @@
-
-package Exerc19;
+/*
+Nome do programador : Ricardo Sousa Vaz de Carvalho
+data da elaboracao  : 06/07/2017
+Objetivo: Receba os valores em x e y. Efetua a troca de seus valores e mostre seus conteúdos.   
+ */
+package Exerc17;
 
 import java.util.Scanner;
 

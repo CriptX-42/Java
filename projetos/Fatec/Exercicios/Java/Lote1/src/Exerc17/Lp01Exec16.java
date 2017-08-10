@@ -1,5 +1,9 @@
-
-package Exerc19;
+/*
+Nome do programador : Ricardo Sousa Vaz de Carvalho
+data da elaboracao  : 06/07/2017
+Objetivo: Receba a quantidade de horas trabalhadas, o valor por hora, o percentual de desconto e o número de descendentes. Calcule o salário que serão as horas trabalhadas x o valor por hora. Calcule o salário líquido (= Salário Bruto – desconto). A cada dependente será acrescido R$ 100 no Salário Líquido. Exiba o salário a receber.
+ */
+package Exerc17;
 
 import java.util.Scanner;
 

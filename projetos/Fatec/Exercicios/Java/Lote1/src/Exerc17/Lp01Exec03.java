@@ -1,4 +1,9 @@
-package Exerc19;
+/*
+Nome do programador : Ricardo Sousa Vaz de Carvalho
+data da elaboracao  : 03/07/2017
+Objetivo: Receba a base e a altura de um triângulo. Calcule e mostre a sua área. 
+ */
+package Exerc17;
 
 import java.util.Scanner;
 

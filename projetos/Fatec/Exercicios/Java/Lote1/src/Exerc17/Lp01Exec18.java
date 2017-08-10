@@ -1,14 +1,14 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+Nome do programador : Ricardo Sousa Vaz de Carvalho
+data da elaboracao  : 06/07/2017
+Objetivo: Receba os coeficientes A, B e C de uma equação do 2º grau (AX²+BX+C=0). Calcule e mostre as raízes reais (considerar que a equação possue2 raízes).  
  */
-package exer18a30;
+package Exerc17;
 
 import java.util.Scanner;
 
 
-public class progValorInteiro {
+public class Lp01Exec18 {
     public static void main(String[]args){
         int num1 = 0,num2 = 0, dif = 0;
         Scanner num = new Scanner(System.in);

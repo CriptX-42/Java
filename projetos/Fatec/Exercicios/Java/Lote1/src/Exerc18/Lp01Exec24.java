@@ -1,5 +1,9 @@
-
-package exer18a30;
+/*
+    Nome do programador : Ricardo Sousa Vaz de Carvalho
+    data da elaboracao  : 10/07/2017
+    Objetivo: Receba um valor inteiro. Verifique e mostre se é divisível por 2 e 3.
+ */
+package Exerc18;
 
 import java.util.Scanner;
 
@@ -7,7 +11,7 @@ import java.util.Scanner;
  *
  * @author Ricardo Sousa
  */
-public class progDivisivel24 {
+public class Lp01Exec24 {
     public static void main(String[]args){
         double num2 = 0, num3 = 0, x = 0;
         Scanner num = new Scanner (System.in);

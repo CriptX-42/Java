@@ -1,9 +1,9 @@
 /*
 Nome do programador : Ricardo Sousa Vaz de Carvalho
-data da elaboracao  : 06/07/2017
+data da elaboracao  : 03/07/2017
 Objetivo: Coletar o valor do lado de um quadrado, calcular sua área e apresentar o resultado. 
  */
-package Exerc19;
+package Exerc17;
 
 import java.util.Scanner;
 

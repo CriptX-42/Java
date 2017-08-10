@@ -1,5 +1,9 @@
-
-package Exerc19;
+/*
+Nome do programador : Ricardo Sousa Vaz de Carvalho
+data da elaboracao  : 06/07/2017
+Objetivo: Receba a quantidade de alimento em quilos. Calcule e mostre quantos dias durará esse alimento sabendo que a pessoa consome 50g ao dia
+ */
+package Exerc17;
 
 import java.util.Scanner;
 

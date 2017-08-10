@@ -1,5 +1,9 @@
-
-package exer18a30;
+/*
+    Nome do programador : Ricardo Sousa Vaz de Carvalho
+    data da elaboracao  : 10/07/2017
+    Objetivo: Receba 3 valores obrigatoriamente em ordem crescente e um 4º valor não necessariamente em ordem. Mostre os 4 números em ordem crescente.
+ */
+package Exerc18;
 
 import java.util.Scanner;
 
@@ -7,7 +11,7 @@ import java.util.Scanner;
  *
  * @author Ricardo Sousa
  */
-public class progExerciCresc23 {
+public class Lp01Exec23 {
     public static void main(String[]args){
         int w = 0, x = 0, y = 0, z = 0;
         Scanner num = new Scanner(System.in);

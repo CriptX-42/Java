@@ -1,4 +1,9 @@
-package Exerc19;
+/*
+Nome do programador : Ricardo Sousa Vaz de Carvalho
+data da elaboracao  : 06/07/2017
+Objetivo: Receba 2 números reais. Calcule e mostre a diferença desses valore.  
+ */
+package Exerc17;
 
 import java.util.Scanner;
 /**

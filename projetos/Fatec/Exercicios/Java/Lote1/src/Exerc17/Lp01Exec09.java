@@ -1,4 +1,9 @@
-package Exerc19;
+/*
+Nome do programador : Ricardo Sousa Vaz de Carvalho
+data da elaboracao  : 06/07/2017
+Objetivo: Receba os 2 números inteiros. Calcule e mostre a soma dos quadrados.  
+ */
+package Exerc17;
 
 import java.util.Scanner;
 

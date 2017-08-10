@@ -1,9 +1,9 @@
 /*
 Nome do programador : Ricardo Sousa Vaz de Carvalho
-data da elaboracao  : 06/07/2017
+data da elaboracao  : 03/07/2017
 Objetivo: Receba o salário de um funcionário e mostre o novo salário com reajuste de 15%.
  */
-package Exerc19;
+package Exerc17;
 
 import java.util.Scanner;
 /**

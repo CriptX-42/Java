@@ -1,5 +1,9 @@
-
-package exer18a30;
+/*
+    Nome do programador : Ricardo Sousa Vaz de Carvalho
+    data da elaboracao  : 10/07/2017
+    Objetivo: Receba 2 números inteiros. Verifique e mostre se o maior número é múltiplo do menor. 
+ */
+package Exerc18;
 
 import java.util.Scanner;
 
@@ -7,7 +11,7 @@ import java.util.Scanner;
  *
  * @author Ricardo Sousa
  */
-public class progRestMultipl26 {
+public class Lp01Exec26 {
     public static void main(String[]args){
         int x = 0,y = 0,resto = 0;
         Scanner num = new Scanner(System.in);

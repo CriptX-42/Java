@@ -1,5 +1,9 @@
-
-package Exerc19;
+/*
+Nome do programador : Ricardo Sousa Vaz de Carvalho
+data da elaboracao  : 06/07/2017
+Objetivo: Receba 2ângulos de um triângulo. Calcule e mostre o valor do 3º ângulo.
+ */
+package Exerc17;
 
 import java.util.Scanner;
 

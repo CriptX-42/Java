@@ -1,4 +1,9 @@
-package Exerc19;
+/*
+Nome do programador : Ricardo Sousa Vaz de Carvalho
+data da elaboracao  : 06/07/2017
+Objetivo: Receba os valores do comprimento, largura e altura de um paralelepípedo. Calcule e mostre seu volume. 
+ */
+package Exerc17;
 
 import java.util.Scanner;
 

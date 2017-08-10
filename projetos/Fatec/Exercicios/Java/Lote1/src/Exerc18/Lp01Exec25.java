@@ -1,9 +1,9 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+    Nome do programador : Ricardo Sousa Vaz de Carvalho
+    data da elaboracao  : 10/07/2017
+    Objetivo: Receba a hora de início e de final de um jogo (HH,MM) sabendo que o tempo máximo é de 24 horas e pode começar num dia e terminar noutro.
  */
-package exer18a30;
+package Exerc18;
 
 import java.util.Scanner;
 
@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author Ricardo Sousa
  */
-public class progTempo25 {
+public class Lp01Exec25 {
     public static void main(String[]args){
         Scanner num = new Scanner(System.in);
         int hI = 0,hF = 0,mI = 0,mF = 0,tempHoras = 0, tempMinu = 0;

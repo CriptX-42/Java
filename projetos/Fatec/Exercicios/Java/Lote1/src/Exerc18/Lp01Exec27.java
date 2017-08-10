@@ -1,5 +1,9 @@
-
-package exer18a30;
+/*
+    Nome do programador : Ricardo Sousa Vaz de Carvalho
+    data da elaboracao  : 10/07/2017
+    Objetivo: Receba o número de voltas, a extensão do circuito (em metros) e o tempo de duração (minutos). Calcule e mostre a velocidade média em km/h. 
+ */
+package Exerc18;
 
 import java.util.Scanner;
 
@@ -7,7 +11,7 @@ import java.util.Scanner;
  *
  * @author Ricardo Sousa
  */
-public class progVolt27 {
+public class Lp01Exec27 {
     public static void main(String[]args){
         double volt = 0, metro = 0, tempDura = 0, veloMedia = 0;
         Scanner num = new Scanner(System.in);
