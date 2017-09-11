@@ -1,4 +1,8 @@
-
+/*
+ *  Nome do programador : Ricardo Sousa Vaz de Carvalho
+ *  data da elaboracao  : 10/07/2017
+ *  Objetivo: Receba a data de nascimento e atual em ano, mês e dia. Calcule e mostre a idade em anos, meses e dias, considerando os anos bissextos. 
+ */
 package Exerc48;
 
 import java.util.Scanner;
@@ -7,7 +11,7 @@ import java.util.Scanner;
  *
  * @author Ricardo Sousa
  */
-public class progNas33 {
+public class Lp01Exec33 {
     public static void main (String[]args){
         Scanner dataN = new Scanner(System.in);
         int dia = 0, mes = 0, anoNasc = 0, anoAtual = 0;

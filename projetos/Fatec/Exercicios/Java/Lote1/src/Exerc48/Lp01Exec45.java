@@ -1,7 +1,7 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ *  Nome do programador : Ricardo Sousa Vaz de Carvalho
+ *  data da elaboracao  : 17/07/2017
+ *  Objetivo: Calcule e mostre a série 1 + 2/3 + 3/5 + ... + 50/99 
  */
 package Exerc48;
 
@@ -9,7 +9,7 @@ package Exerc48;
  *
  * @author Ricardo Sousa
  */
-public class progSerie45 {
+public class Lp01Exec45 {
     public static void main (String[]args){
         int num1 = 1, num2 = 1;
         System.out.println(num1);

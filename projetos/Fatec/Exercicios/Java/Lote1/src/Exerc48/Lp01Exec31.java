@@ -1,4 +1,13 @@
-
+/*
+ *  Nome do programador : Ricardo Sousa Vaz de Carvalho
+ *  data da elaboracao  : 17/07/2017
+ *  Objetivo: Receba o preço atual e a média mensal de um produto. Calcule e mostre o novo preço sabendo que: 
+ *  Venda Mensal        Preço Atual     Preço Novo 
+ *  < 500               < 30            + 10% 
+ *  >= 500 e < 1000     >= 30 e < 80    +15% 
+ *  >= 1000             >= 80           - 5% 
+ *  Obs.: para outras condições, preço novo será igual ao preço atual.   
+ */
 package Exerc48;
 
 import java.util.Scanner;
@@ -7,7 +16,7 @@ import java.util.Scanner;
  *
  * @author Ricardo Sousa
  */
-public class progMedMensal31 {
+public class Lp01Exec31 {
     public static void main(String[]args){
         Scanner num = new Scanner(System.in);
         double precAtual = 0, medMensal=0, novoPrec = 0;

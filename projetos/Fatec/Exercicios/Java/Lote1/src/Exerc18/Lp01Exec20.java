@@ -24,8 +24,8 @@ public class Lp01Exec20 {
         delta = (int) (Math.pow(bX,2)-(4*aX*cX));
         if(delta > 0){
         x1 =  ((-(bX)-Math.sqrt(delta))/(2*aX));
-        x2 = ((-(bX)+Math.sqrt(delta))/(2*aX));
-        System.out.println("O valor de x1 é: " + x1 + "O valor de x2 é: " + x2);
+        x2 = ((+(bX)+Math.sqrt(delta))/(2*aX));
+        System.out.println("O valor de x1 é: " + x1 + "O valor de x2 é: " + x2  );
     }else{
             System.out.println("O delta é menor que zero: "+delta+" Portanto é indefinido");
         }

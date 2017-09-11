@@ -1,7 +1,7 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ *  Nome do programador : Ricardo Sousa Vaz de Carvalho
+ *  data da elaboracao  : 17/07/2017
+ *  Objetivo: Receba 100 números inteiros reais. Verifique e mostre o maior e o menor valor. Obs.: somente valores positivos.
  */
 package Exerc48;
 
@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author Ricardo Sousa
  */
-public class progNumInt41 {
+public class Lp01Exec41 {
     public static void main(String[]args){
     Scanner num = new Scanner(System.in);
     int num1 = 0, num2 = 0;

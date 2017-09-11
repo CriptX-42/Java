@@ -1,7 +1,7 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ *  Nome do programador : Ricardo Sousa Vaz de Carvalho
+ *  data da elaboracao  : 17/07/2017
+ *  Objetivo: Receba um número inteiro. Calcule e mostre a série de Fibonacci até o seu N’nésimo termo.
  */
 package Exerc48;
 
@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author Ricardo Sousa
  */
-public class progFibonacci40 {
+public class Lp01Exec40 {
     public static void main(String[]args){
          
         int num1 = 0, num2 = 0;
