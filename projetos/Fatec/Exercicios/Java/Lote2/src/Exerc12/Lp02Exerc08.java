@@ -3,15 +3,15 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package lote2;
+package Exerc12;
 
 import java.util.Scanner;
 
 
-public class progProd_8 {
+public class Lp02Exerc08 {
     public static void main(String[]args){
        int [][] mat = new int [4][3];
-       int preco, soma = 0;
+       int soma = 0;
        Scanner ler = new Scanner(System.in);
        for (int i = 0; i < 4; i ++){
         for(int j = 0; j<3;j++){

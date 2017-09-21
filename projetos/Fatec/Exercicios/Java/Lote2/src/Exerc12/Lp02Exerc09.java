@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package lote2;
+package Exerc12;
 
 import static javax.management.Query.lt;
 
@@ -11,7 +11,7 @@ import static javax.management.Query.lt;
  *
  * @author Ricardo Sousa
  */
-public class protMat_9 {
+public class Lp02Exerc09 {
     public static void main(String[] args){    
       int [][] mat = new int [4][4];
         for (int i = 0; i < 4; i++) {

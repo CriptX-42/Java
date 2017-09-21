@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package lote2;
+package Exerc12;
 
 import java.util.Scanner;
 
@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author Ricardo Sousa
  */
-public class progSub20vet_5 {
+public class Lp02Exerc05 {
     public static void main(String[]args){
         int [] vet = new int[21];
         int concat=0,i=0, aux = 0,aux2 = 0;

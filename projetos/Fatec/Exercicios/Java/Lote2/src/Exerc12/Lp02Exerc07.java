@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package lote2;
+package Exerc12;
 
 import java.util.Arrays;
 import java.util.Scanner;
@@ -12,7 +12,7 @@ import java.util.Scanner;
  *  FAZER O BOOBLE
  * @author Ricardo Sousa
  */
-public class progPesqBina_7 {
+public class Lp02Exerc07 {
     public static void main(String[]args){
         int[] vet = new int[20];
         int meiVet = 0, iniVet = 0, fiVet = vet.length , busca = 0;

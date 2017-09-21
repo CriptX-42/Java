@@ -4,7 +4,7 @@
 * To change this template file, choose Tools | Templates
 * and open the template in the editor.
  */
-package lote2;
+package Exerc12;
 
 import java.util.Arrays;
 
@@ -12,7 +12,7 @@ import java.util.Arrays;
  *
  * @author Ricardo Sousa
  */
-public class progAleat_6 {
+public class Lp02Exerc06 {
     public static void main(String[] args) {
         int[] vet = new int[20];
         

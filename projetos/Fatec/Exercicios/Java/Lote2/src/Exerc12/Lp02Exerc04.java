@@ -4,7 +4,7 @@
 * To change this template file, choose Tools | Templates
 * and open the template in the editor.
  */
-package lote2;
+package Exerc12;
 
 import java.util.Arrays;
 import java.util.Scanner;
@@ -13,7 +13,7 @@ import java.util.Scanner;
  *
  * @author Ricardo Sousa
  */
-public class progNotasvet_4 {
+public class Lp02Exerc04 {
     public static void main(String[] args) {
         int[] vet   = new int[31];
         

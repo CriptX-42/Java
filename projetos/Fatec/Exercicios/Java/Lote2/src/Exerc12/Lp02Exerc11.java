@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package lote2;
+package Exerc12;
 
 /**
  *
  * @author Ricardo Sousa
  */
-public class ProgMat_11 {
+public class Lp02Exerc11 {
     public static void main(String[]args){
         int[][] mat = new int [8][8];
         int [] aux = new int [8];
