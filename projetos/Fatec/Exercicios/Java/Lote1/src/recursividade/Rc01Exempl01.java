@@ -19,7 +19,9 @@ public class Rc01Exempl01 {
         
     }
 
-  
+    //RECURSIVO
+    //RECURSIVO
+    //RECURSIVO
     public static int frecursivo(int n1){
         int x;
         if(n1==1){

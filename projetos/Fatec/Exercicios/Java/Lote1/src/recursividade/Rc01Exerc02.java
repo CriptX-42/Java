@@ -16,6 +16,9 @@ public class Rc01Exerc02 {
         System.out.println("O resultado é"+Fdif(result));
         
     }
+    //RECURSIVO3
+    //RECURSIVO
+    //RECURSIVO
     public static int Fdif(int num){
         int result1 = 0, result2 = 0;
         

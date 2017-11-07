@@ -15,6 +15,9 @@ public class Rc01Exerc01 {
         
         
     }
+    //RECURSIVO
+    //RECURSIVO
+    //RECURSIVO
     public static int Fsoma(int num){
         int soma =0;
         if(num == 100){

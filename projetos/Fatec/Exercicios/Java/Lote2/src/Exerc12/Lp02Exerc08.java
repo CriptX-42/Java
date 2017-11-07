@@ -24,7 +24,7 @@ public class Lp02Exerc08 {
  
        }
        int vSem[] = new int [4];
-       int vMes[] = new int [3];
+       int vMes = 0;
        int vSem1 =0, vMes1 = 0;
        for (int i = 0; i < 4; i++) {
                for (int j = 0; j < 3; j++) {
@@ -32,8 +32,8 @@ public class Lp02Exerc08 {
             vSem[i] = vSem[i] + mat [i][j];
             vSem1 =+ vSem[i];
             
-            vMes[j] =+ vMes[j] + mat [i][j];
-            vMes1 =+ vMes[j];
+            vMes =+  mat [i][j];
+            
                }
                System.out.println();
            }
